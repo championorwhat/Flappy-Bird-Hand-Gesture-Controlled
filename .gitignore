@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Pygame/game specific
+high_score.txt
+
+# Python testing
+.coverage
+.pytest_cache/

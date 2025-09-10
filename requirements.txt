@@ -1,0 +1,16 @@
+# Hand Gesture Flappy Bird - Requirements
+# Python 3.9+ recommended
+
+# Core dependencies
+pygame>=2.1.0
+opencv-python>=4.5.0
+mediapipe>=0.9.0
+numpy>=1.21.0
+
+# Optional dependencies for better performance
+opencv-contrib-python>=4.5.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
